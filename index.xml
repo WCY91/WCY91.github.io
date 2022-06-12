@@ -6,24 +6,25 @@
     <description>Recent content on 乘一&amp;部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 12 Jun 2022 11:36:00 +0800</lastBuildDate><atom:link href="https://WCY91.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jun 2022 20:53:00 +0800</lastBuildDate><atom:link href="https://WCY91.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第二天寫部落格日記</title>
+      <link>https://WCY91.github.io/blog/x1-second/</link>
+      <pubDate>Sun, 12 Jun 2022 20:53:00 +0800</pubDate>
+      
+      <guid>https://WCY91.github.io/blog/x1-second/</guid>
+      <description>成功把檔案放到github page了 來記錄一下今天所做的
+1. 複習了演算法12 2. 以及學習到了如何弄github page 和 一些hugo 的設定3.</description>
+    </item>
+    
     <item>
       <title>第一天寫部落格日記</title>
       <link>https://WCY91.github.io/blog/x1-first/</link>
-      <pubDate>Sun, 12 Jun 2022 11:36:00 +0800</pubDate>
+      <pubDate>Sat, 11 Jun 2022 15:36:00 +0800</pubDate>
       
       <guid>https://WCY91.github.io/blog/x1-first/</guid>
       <description>第一次架設個人網站 來記錄一下今天所學的
 1. 知道了GitHubPage和Hugo2. 以及學習到了markdown語法3. 繼續作了spring boot的簡單專案並放到github網站4. 研究了一下line bot但還沒研究出甚麼東西來5.</description>
-    </item>
-    
-    <item>
-      <title>How To Use Checklists To Improve Your UX</title>
-      <link>https://WCY91.github.io/blog/post-13/</link>
-      <pubDate>Tue, 29 Oct 2019 10:07:47 +0600</pubDate>
-      
-      <guid>https://WCY91.github.io/blog/post-13/</guid>
-      <description>Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.</description>
     </item>
     
   </channel>

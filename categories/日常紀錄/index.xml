@@ -6,11 +6,21 @@
     <description>Recent content in 日常紀錄 on 乘一&amp;部落格</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 12 Jun 2022 11:36:00 +0800</lastBuildDate><atom:link href="https://WCY91.github.io/categories/%E6%97%A5%E5%B8%B8%E7%B4%80%E9%8C%84/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 12 Jun 2022 20:53:00 +0800</lastBuildDate><atom:link href="https://WCY91.github.io/categories/%E6%97%A5%E5%B8%B8%E7%B4%80%E9%8C%84/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>第二天寫部落格日記</title>
+      <link>https://WCY91.github.io/blog/x1-second/</link>
+      <pubDate>Sun, 12 Jun 2022 20:53:00 +0800</pubDate>
+      
+      <guid>https://WCY91.github.io/blog/x1-second/</guid>
+      <description>成功把檔案放到github page了 來記錄一下今天所做的
+1. 複習了演算法12 2. 以及學習到了如何弄github page 和 一些hugo 的設定3.</description>
+    </item>
+    
     <item>
       <title>第一天寫部落格日記</title>
       <link>https://WCY91.github.io/blog/x1-first/</link>
-      <pubDate>Sun, 12 Jun 2022 11:36:00 +0800</pubDate>
+      <pubDate>Sat, 11 Jun 2022 15:36:00 +0800</pubDate>
       
       <guid>https://WCY91.github.io/blog/x1-first/</guid>
       <description>第一次架設個人網站 來記錄一下今天所學的
